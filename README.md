@@ -42,3 +42,5 @@ This is where we include some basic lines of code or even some of the DAX expres
 SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
+### Data Visualization
+![Data Validation](https://github.com/user-attachments/assets/ae76e4e8-38e9-46c5-8a48-4d038e02e3bf)
