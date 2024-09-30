@@ -2,6 +2,20 @@
 
 ### Project Title: E Commerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparation
+
+Exploratory Data Analysis
+
+Data Analysis
+
+Data Visualization
+
 ### Project Overview
 ---
 This Data Analysis Project aims to generate insight into the sales performance of the E Commerce project over the past 2 years. By analysisng the varipus parameters in the data received, we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
@@ -44,3 +58,11 @@ WHERE CONDITION = TRUE
 ```
 ### Data Visualization
 ![Data Validation](https://github.com/user-attachments/assets/ae76e4e8-38e9-46c5-8a48-4d038e02e3bf)
+
+😆
+
+💻
+
+| Heading 1 | Heading 2 | Heading 3|
+|-----------|-----------|----------|
+|Table 1|Table 2|Table 3|
