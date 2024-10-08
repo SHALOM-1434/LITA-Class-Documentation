@@ -16,6 +16,7 @@
 
 [Data Visualization](#data-visualization)
 
+
 ### Project Overview
 ---
 This Data Analysis Project aims to generate insight into the sales performance of the E Commerce project over the past 2 years. By analysisng the varipus parameters in the data received, we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
@@ -58,6 +59,9 @@ WHERE CONDITION = TRUE
 ```
 ### Data Visualization
 
+![Revenue By Region - CLUSTERED COLUMN](https://github.com/user-attachments/assets/2734e245-5296-46d5-bfbe-d2a19ff058ab)
+
+![Revenue By Region - PIE](https://github.com/user-attachments/assets/7d0b6ac4-cb3f-4ed1-aa8e-3838338c1e25)
 
 😆
 
