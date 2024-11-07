@@ -51,7 +51,7 @@ EDA involved the exploring of the Data to answer some questions about the Data, 
 
 ### Data Analysis
 ---
-This is where we include some basic lines of code or even some of the DAX expressions used during yOUr analysis;
+This is where we include some basic lines of code or even some of the DAX expressions used in this analysis;
 
 ```SQL
 SELECT * FROM TABLE 1
